@@ -47,6 +47,20 @@ AI-Study-Assistant/
 ├── README.md
 └── screenshots/
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Career Guidance
+![Career Guidance](screenshots/career-guidance.png)
+
+### Programming Help
+![Programming Help](screenshots/programming.png)
+
+### AI Learning
+![AI Learning](screenshots/ai-learning.png)
+
 ## Future Enhancements
 
 - Voice Assistant
