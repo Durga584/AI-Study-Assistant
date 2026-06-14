@@ -1,6 +1,13 @@
 # AI Study Assistant
 
-An AI-powered chatbot built using Streamlit and Google's Gemini API.
+This project is an AI-powered study assistant that helps students with:
+
+- Engineering career guidance
+- Programming concepts and debugging
+- AI/ML learning assistance
+- Study-related queries
+
+Built using Streamlit and Google's Gemini API.
 
 ## Features
 
@@ -21,10 +28,14 @@ An AI-powered chatbot built using Streamlit and Google's Gemini API.
 ## Installation
 
 ```bash
+git clone <repository-url>
+
+cd AI-Study-Assistant
+
 pip install -r requirements.txt
+
 streamlit run app.py
 ```
-
 ## Project Structure
 
 AI-Study-Assistant/
