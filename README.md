@@ -50,7 +50,7 @@ AI-Study-Assistant/
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home-page.png)
 
 ### Career Guidance
 ![Career Guidance](screenshots/career-guidance.png)
@@ -59,7 +59,7 @@ AI-Study-Assistant/
 ![Programming Help](screenshots/programming.png)
 
 ### AI Learning
-![AI Learning](screenshots/ai-learning.png)
+![AI Learning](screenshots/AI-Learning.png)
 
 ## Future Enhancements
 
